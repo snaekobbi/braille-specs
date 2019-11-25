@@ -81,4 +81,4 @@ There's no headlines.
  * _language_: Norwegian
  * _isbn_: 82-7740-002-0
 
-## [Table of contents](1995%20-%20Norsk%20Punktskrift%20-%20del%204.toc.md)
+[Table of contents](1995%20-%20Norsk%20Punktskrift%20-%20del%204.toc.md)
